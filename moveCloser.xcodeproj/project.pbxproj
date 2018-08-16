@@ -12,6 +12,7 @@
 		321C284A2125597D0022263E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 321C28482125597D0022263E /* Main.storyboard */; };
 		321C284C2125597E0022263E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 321C284B2125597E0022263E /* Assets.xcassets */; };
 		321C284F2125597E0022263E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 321C284D2125597E0022263E /* LaunchScreen.storyboard */; };
+		321C2859212572730022263E /* theyear.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 321C2858212572730022263E /* theyear.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		321C284B2125597E0022263E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		321C284E2125597E0022263E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		321C28502125597E0022263E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		321C2858212572730022263E /* theyear.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = theyear.mp3; path = Assets.xcassets/theyear.dataset/theyear.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		321C28432125597D0022263E /* moveCloser */ = {
 			isa = PBXGroup;
 			children = (
+				321C2858212572730022263E /* theyear.mp3 */,
 				321C28442125597D0022263E /* AppDelegate.swift */,
 				321C28462125597D0022263E /* ViewController.swift */,
 				321C28482125597D0022263E /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				321C284F2125597E0022263E /* LaunchScreen.storyboard in Resources */,
 				321C284C2125597E0022263E /* Assets.xcassets in Resources */,
 				321C284A2125597D0022263E /* Main.storyboard in Resources */,
+				321C2859212572730022263E /* theyear.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
